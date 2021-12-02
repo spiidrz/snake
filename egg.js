@@ -430,7 +430,7 @@ console.log(settings.dark_goal, settings.light_goal, settings.darker_goal)
             dog.className = 'DqMRee SsAred';
 
             let egg = new Image();
-            egg.src = 'https://i.postimg.cc/KcwJ9s0Y/IMG-20211129-094252-removebg-preview.png';
+            egg.src = 'https://i.postimg.cc/GmGLBN5T/et.png';
             egg.width = egg.height = 47;
             egg.className = 'DqMRee SsAred';
 
